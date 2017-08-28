@@ -1,5 +1,5 @@
 # Massage-Robot
-## The result is accepted by IEEE International Conference on Robotics and Automation (ICRA) 2017.
+#### The result is accepted by IEEE International Conference on Robotics and Automation (ICRA) 2017.
 - The objective of this research is to present a percussive massage based on robotic tapping motion.
 - It is the first research to discuss the massage technique for this kind. 
 
