@@ -12,3 +12,5 @@
 - To tackle with the tapping motion problems, we utilize the online trajectory generator (OTG) based on the impedance control, which ensures the safety of human without any possible accident which can hurt human. 
 - We implement the tapping motion with a dual arm robot developed at the iCeiRA lab in NTU. 
 - By the Cartesian space teach function and the concept of virtual point, the tapping force and contact position can be changed adaptively to meet different needs.
+
+#### There is a demo video here: https://www.youtube.com/watch?v=0KflP1XiihA, enjoy it! :)
