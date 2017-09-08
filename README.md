@@ -14,3 +14,6 @@
 - By the Cartesian space teach function and the concept of virtual point, the tapping force and contact position can be changed adaptively to meet different needs.
 
 #### There is a demo video here: https://www.youtube.com/watch?v=0KflP1XiihA, enjoy it! :)
+
+
+<img src="https://github.com/CP-TSAI/Computer-Vision/raw/master/cv_pic/pic.jpg" width="75%" height="75%"> 
