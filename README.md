@@ -16,6 +16,6 @@
 #### There is a demo video here: https://www.youtube.com/watch?v=0KflP1XiihA, enjoy it! :)
 
 
-<img src="https://github.com/CP-TSAI/Computer-Vision/raw/master/cv_pic/螢幕快照 2017-09-08 16.07.12.jpg" width="75%" height="75%"> 
-<img src="https://github.com/CP-TSAI/Computer-Vision/raw/master/cv_pic/螢幕快照 2017-09-08 16.08.25.jpg" width="75%" height="75%"> 
+<img src="https://github.com/CP-TSAI/Massage-Robot/pic/螢幕快照 2017-09-08 16.07.12.jpg" width="75%" height="75%"> 
+<img src="https://github.com/CP-TSAI/Massage-Robot/pic/螢幕快照 2017-09-08 16.08.25.jpg" width="75%" height="75%"> 
 
