@@ -4,9 +4,9 @@
 
 **The result is accepted by IEEE International Conference on Robotics and Automation (ICRA) 2017.**
 
-**You can find more information at the IEEE Xplore: http://ieeexplore.ieee.org/document/7989415/ **
+**You can find more information at the IEEE Xplore: http://ieeexplore.ieee.org/document/7989415/**
 
-**There is a demo video here: https://www.youtube.com/watch?v=0KflP1XiihA, enjoy it! :)
+**There is a demo video here: https://www.youtube.com/watch?v=0KflP1XiihA, enjoy it! :)**
 
 
 #### ABSTRACT
