@@ -2,7 +2,7 @@
 
 <img src="https://github.com/CP-TSAI/Massage-Robot/raw/master/pic/螢幕快照 2017-09-08 16.08.25.jpg" width="38%" height="38%"> <img src="https://github.com/CP-TSAI/Massage-Robot/raw/master/pic/螢幕快照 2017-09-08 16.07.12.jpg" width="40%" height="40%">
 
-#####**(1) The result is accepted by IEEE International Conference on Robotics and Automation (ICRA) 2017.**
+####**(1) The result is accepted by IEEE International Conference on Robotics and Automation (ICRA) 2017.**
 
 #####**(2) You can find more information at the IEEE Xplore: http://ieeexplore.ieee.org/document/7989415/**
 
