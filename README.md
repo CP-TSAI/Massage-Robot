@@ -1,6 +1,6 @@
 ### Massage-Robot
 
-<img src="https://github.com/CP-TSAI/Massage-Robot/raw/master/pic/螢幕快照 2017-09-08 16.08.25.jpg" width="40%" height="40%"> <img src="https://github.com/CP-TSAI/Massage-Robot/raw/master/pic/螢幕快照 2017-09-08 16.07.12.jpg" width="40%" height="40%">
+<img src="https://github.com/CP-TSAI/Massage-Robot/raw/master/pic/螢幕快照 2017-09-08 16.08.25.jpg" width="38%" height="38%"> <img src="https://github.com/CP-TSAI/Massage-Robot/raw/master/pic/螢幕快照 2017-09-08 16.07.12.jpg" width="40%" height="40%">
 
 **The result is accepted by IEEE International Conference on Robotics and Automation (ICRA) 2017.**
 
@@ -21,8 +21,4 @@
 #### Solutions:
 - To tackle with the tapping motion problems, we utilize the online trajectory generator (OTG) based on the **impedance control**, which ensures safety of humans. 
 - By the **Cartesian Space Teach and Play Feedback Function** and the **Concept of Virtual Point**, the tapping force and contact position can be changed adaptively to meet different needs.
-
-
-
-
 
