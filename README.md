@@ -1,4 +1,4 @@
-## Massage-Robot
+***# Massage-Robot
 
 <img src="https://github.com/CP-TSAI/Massage-Robot/raw/master/pic/螢幕快照 2017-09-08 16.08.25.jpg" width="45%" height="45%"> <img src="https://github.com/CP-TSAI/Massage-Robot/raw/master/pic/螢幕快照 2017-09-08 16.07.12.jpg" width="48%" height="48%">
 
@@ -18,7 +18,7 @@
 - How can the robot exert the desired force while making sure the safety?
 - How can the for fit itself to different human body?
 
-##### Solutions:
+#### Solutions:
 - To tackle with the tapping motion problems, we utilize the online trajectory generator (OTG) based on the **impedance control**, which ensures safety of humans. 
 - By the **Cartesian Space Teach and Play Feedback Function** and the **Concept of Virtual Point**, the tapping force and contact position can be changed adaptively to meet different needs.
 
